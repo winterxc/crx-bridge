@@ -4,7 +4,6 @@ import * as serializeError from 'serialize-error';
 import oneline from 'oneline';
 import uuid from 'tiny-uid';
 
-
 // eslint-disable-next-line no-shadow
 enum RuntimeContext {
 	Devtools = 'devtools',
